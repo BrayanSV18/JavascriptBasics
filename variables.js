@@ -1,4 +1,4 @@
-//Ways to define a variable
+//Ways to declare a variable
 
 //Var is globally defined. This can be a string or number.
 var variableName = "Brayan";
@@ -8,6 +8,10 @@ let variableName = 22;
 
 //Const is block scoped and can't be reassigned. This can be string or number.
 const variableName = "Persona";
+
+//Undefined: When no value is assigned
+
+//Revisar https://developer.mozilla.org/es/docs/Web/JavaScript
 
 /*-------------------------------*/
 

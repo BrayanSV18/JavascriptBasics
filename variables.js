@@ -11,9 +11,18 @@ const variableName = "Persona";
 
 /*-------------------------------*/
 
-//We can declare the variable and initialize it afterwards (después). 
+//We can declare the variable and initialize it afterwards (después).
 
 //Declare
 var variableName;
-//Inintialize 
-variableName = "contenido"; 
+//Inintialize
+variableName = "contenido";
+
+//Variable tipo Arrays
+var elementos = ["Computadora", "Celular"];
+
+//Variable tipo Objetos
+var persona = {
+  nombre: "Brayan",
+  edad: 22,
+};

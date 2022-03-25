@@ -1,7 +1,8 @@
-/*Scope Global and Local*/
+/*Scope GLOBAL - LOCAL*/
 
 //Global variables are accessible from anywhere in the code.
 //Local variables are accesible only inside the function.
+
 var globalVariable = "Global";
 
 function functionName() {

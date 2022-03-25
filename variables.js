@@ -1,4 +1,5 @@
 //Ways to declare a variable
+// VAR - LET - CONST
 
 //Var is globally defined. This can be a string or number.
 var variableName = "Brayan";
@@ -30,6 +31,5 @@ var persona = {
   nombre: "Brayan",
   edad: 22,
 };
-
 
 //Variables has to be declared on top to avoid hoisting

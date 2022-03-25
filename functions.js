@@ -1,13 +1,15 @@
-//Declarative and Imperative
+//DECLARATIVE AND IMPERATIVE
 
-//Declarative
+//DECLARATIVE
 function functionName() {
   return 10;
 }
 //To call the function 
 functionName();
 
-//Imperative
+/**--------------------------------------*/
+
+//IMPERATIVE
 var functionName = function(a,b){
   return a + b;
 }

@@ -4,8 +4,9 @@
 functionName();
 
 function functionName(parameters) {
-  return 0;
+  return parameters;
 }
 
 //Imperative
 /*It doesn't work with the imperative function, It has to be declared before being called.*/
+

@@ -30,3 +30,6 @@ var persona = {
   nombre: "Brayan",
   edad: 22,
 };
+
+
+//Variables has to be declared on top to avoid hoisting
